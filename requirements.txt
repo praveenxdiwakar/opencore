@@ -1,1 +1,9 @@
-# No dependencies yet, add here if needed
+# Open-Core dependencies
+
+# CLI argument parsing (built-in, no installation required)
+# argparse is part of Python standard library
+
+# Unit testing (built-in, no installation required)
+# unittest is part of Python standard library
+
+# Add external libraries here if needed in the future
